@@ -8,9 +8,9 @@ root.config(bg = 'SlateGray3')
 root.title('DataFlair-AddressBook')
 root.resizable(0,0)
 contactlist = [
-    ['Papaji',  '8319356339'],
-    ['Vinay patle',  '7489547173'],
-    ['Harshit patle',   '9753864905'],
+    ['Papaji',  '8337957899'],
+    ['Vinay patle',  '74824678903'],
+    ['Harshit patle',   '97534679575'],
     ]
 
 Name = StringVar()
